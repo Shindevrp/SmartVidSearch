@@ -1,0 +1,6 @@
+flask
+opencv-python
+pinecone-client
+transformers
+sentence-transformers
+llama-cpp-python
